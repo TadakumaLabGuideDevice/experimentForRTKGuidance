@@ -331,8 +331,6 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         // 緯度・経度を取得
         String Lat = "currentLat:" + currentLat;
         String Lng = "currentLng" + currentLng;
-        current_Lat.setText(Lat);
-        current_Lng.setText(Lng);
     }
 
     //クリックしたときのイベント
