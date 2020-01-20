@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">experimentForRTKGuidance</string>
+    <string name="title_activity_maps">Experiment For RTK</string>
+    <string name="bluetooth_state">Bluetooth State :</string>
+    <string name="gps_state">GPS State :</string>
+    <string name="connect">Connect</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="voice">Voice</string>
+    <string name="search_device">Search Device</string>
+    <string name="connected">Connected</string>
+    <string name="error">Error</string>
+    <string name="disabled_provider">Disabled_Provider</string>
+    <string name="enabled_provider">Enabled Provider</string>
+    <string name="available">Available</string>
+    <string name="out_of_service">Out of Service</string>
+    <string name="temp_unavailable">Temp Unavailable</string>
+    <string name="gps_enable">GPS Enable</string>
+    <string name="gps_disable">GPS Disable</string>
+    <string name="current_lng">current_Lng</string>
+    <string name="current_lat">current_Lat</string>
+    <string name="status_activity">No Activity</string>
+    <string name="no_activity">No Activity</string>
+    <string name="Mag">MainTimer value</string>
+    <string name="textview">senserClass value</string>
+    <string name="save">SAVE</string>
+    <string name="now_mag">now_Mag</string>
+    <string name="mode">mode</string>
+    <string name="target_point">Target Point:</string>
+    <string name="now_point">Now Point:</string>
+    <string name="status">Status:</string>
+</resources>
